@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+langgraph==0.1.5
+langchain==0.2.5
+langchain-openai==0.1.8
+openai==1.30.5
+python-dotenv==1.0.1
+jupyter==1.0.0
+ipykernel==6.29.4
