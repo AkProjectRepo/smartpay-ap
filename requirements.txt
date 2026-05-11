@@ -8,3 +8,4 @@ openai==1.30.5
 python-dotenv==1.0.1
 jupyter==1.0.0
 ipykernel==6.29.4
+matplotlib==3.10.9
